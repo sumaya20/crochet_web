@@ -7,7 +7,7 @@ it a web page to display some of my crochet work, you can see all my crochet thr
 
 
 #usage
->You can use the code in a number of ways,such as
+You can use the code in a number of ways,such as
 *creating a photo gallery for photographers .
 *using code for an online store.
 
