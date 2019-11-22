@@ -1,5 +1,5 @@
 # crochet_web
-it a web page to display some of my crochet work, you can see all my crochet through it and share it with people who interesting it .
+it a web page to display some of my crochet work, you can see all my crochet through it and share it with people who interesting in it .
 - my instagram @soma_crochet22
 
 ## installation
@@ -11,7 +11,7 @@ it a web page to display some of my crochet work, you can see all my crochet thr
 > - creating a photo gallery for photographers .
 > - using code for an online store.
 
-## Contibuting
+## Contributing
 > i hope to any one who know about front-end work with me to devloping my page and make it as an online store in futuer.
 
 
