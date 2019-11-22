@@ -1,0 +1,37 @@
+  <p>
+            &#128512 مرحبا بكم في عالمي "الكروشية" ,اشعر بالسعادة عند حياكة هذه القطع واتمنى مستقبلا عمل مشروع اطمح اليه ان شاءالله مشاهدة ممتعة
+
+        </p>
+
+
+
+
+    <section class=" FF">
+        <figure>
+            <img  src="IMG-5935.jpg" />
+
+        </figure>
+        <figure>
+            <img class="qq" src="IMG-7424.jpg" />
+
+        </figure>
+        <figure>
+            <img class="qq" src="IMG-5374.JPG" />
+
+        </figure>
+    </section>
+
+
+
+
+ <footer class="EOE">
+        <p>© 2019 soma_crochet22</p>
+    </footer>
+
+
+
+.EOE{
+    background-color:#a89b9b;
+    height:100px;
+
+}

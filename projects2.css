@@ -1,0 +1,85 @@
+body {
+    background-image:url(galaxy.jpg);
+}
+ h1 {
+   
+    background-position-x:center;
+    height: 200px;
+    width: auto;
+    background-position: center;
+    font-size: 90px;
+    text-align: center;
+    font-family: cursive;
+    color: aliceblue;
+  position:center;
+}
+header{
+    height:400px;
+    background-image:url(design.jpg);
+    background-position:center;
+    text-align:center;
+}
+
+
+  li {
+    
+     color:aliceblue;
+     display:inline-block;
+     padding:40px;
+     text-transform:uppercase;
+     
+ }
+  a{
+      color:#fce2fc;
+      font-size:40px;
+  }
+
+
+.FF {
+    background:#75436e;
+  
+ 
+    color: #000000;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.FF figure{
+    padding:15px;
+    width:300px;
+}
+
+.FF figure img {
+   width:400px;
+   padding:15px;
+   margin:15px;
+   
+
+
+}
+
+
+
+p{
+    font-size:30px;
+    text-align:center;
+}
+.ee{
+height:500px;
+}
+.qq {
+    transform: rotate(89deg);
+   height:400px;
+   width:100px;
+}
+
+
+.ww {
+color:#ff0000;
+
+}
+.yyy{
+    height:400px;
+    width:100px;
+}
