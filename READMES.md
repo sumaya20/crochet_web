@@ -16,6 +16,6 @@ it a web page to display some of my crochet work, you can see all my crochet thr
 
 
 ## Support .
-To communicate with me email me (sams92207@gmail.com) .
+To communicate with me email me (sams92207@gmail.com) ..
 
 
