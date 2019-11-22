@@ -2,7 +2,7 @@
 it a web page to display some of my crochet work, you can see all my crochet through it and share it with people who interesting it .
 - my instagram @soma_crochet22
 
-> **installation**
+## installation
 >i have used the library **fontawesome** for adding icons and fonts  https://fontawesome.com/
 
 
